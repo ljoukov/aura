@@ -1,0 +1,17 @@
+{
+  "name": "Aura - AI Sales Co-pilot",
+  "short_name": "Aura",
+  "description": "AI-powered sales co-pilot for real-time insights",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
